@@ -134,11 +134,6 @@ if (SYSTEMD_FOUND)
   set(HAVE_SYSTEMD 1)
 endif()
 
-find_package(SECCOMP)
-if (SECCOMP_FOUND)
-  set(HAVE_SECCOMP 1)
-endif()
-
 find_package(GCRYPT REQUIRED)
 find_package(XXHASH REQUIRED)
 
