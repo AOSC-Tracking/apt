@@ -31,7 +31,7 @@ find_path(DOCBOOK_XSL manpages/docbook.xsl
          # OpenSUSE
          /usr/share/xml/docbook/stylesheet/nwalsh/current
          # Arch
-          /usr/share/xml/docbook/xsl-stylesheets
+          /usr/share/xml/docbook/xsl-stylesheets-1.79.2
          # Fedora
          /usr/share/sgml/docbook/xsl-stylesheets
          # Fink
